@@ -3,7 +3,6 @@
 **Nama**: Afriq Fadili Azim  
 **NRP**: 3124500043  
 
----
 
 ## 1. Background and Feature Migration
 
@@ -16,7 +15,6 @@ Features developed for mainframes migrated to smaller systems as technology adva
 ### B. Purpose of Study  
 Understanding OS history reveals patterns of innovation and adaptation (e.g., multiprocessing, microkernel designs).  
 
----
 
 ## 2. Early Computing Era (1940s–1950s)
 
@@ -29,7 +27,6 @@ Understanding OS history reveals patterns of innovation and adaptation (e.g., mu
 - Frequent CPU idle time due to setup delays.  
 - High operational costs.  
 
----
 
 ## 3. Evolution to Batch Systems and Automation
 
@@ -49,7 +46,6 @@ Understanding OS history reveals patterns of innovation and adaptation (e.g., mu
 ### D. Overlapped I/O  
 - Shift from tapes (sequential) to disks (random-access).  
 
----
 
 ## 4. Key Operating Systems and Their Innovations
 
