@@ -94,7 +94,7 @@ Keterangan:
 - **Average Turnaround Time** = (1 + 5 + 9 + 16) / 4 = 7.75
 - **Average Waiting Time** = (0 + 1 + 5 + 9) / 4 = 3.75
 ## Output Program  
-
+![image](https://github.com/afaaa21/SisOp-2025/blob/main/week%2013/Screenshot%202025-05-19%20142538.png)
 ## Analisis
 1. **Efisiensi**: Dengan mengurutkan proses berdasarkan burst time, algoritma ini meminimalkan average waiting time dan average turnaround time dibanding algoritma seperti FCFS.
 
