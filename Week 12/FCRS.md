@@ -1,7 +1,9 @@
 # FCFS Scheduling Algorithm
-*Nama Anggota*
+**Nama Anggota**  
+
 Afriq Fadlil Azim (3124500043)  
 Tara Adilah Fathin (3124500055)
+
 ---
 
 ## 1. FCFS Scheduling Tanpa Arrival Time (AT)
