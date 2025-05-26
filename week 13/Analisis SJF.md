@@ -1,5 +1,5 @@
 
-# Analisis Hasil Eksekusi Program Penjadwalan SJF (Shortest Job First) Non-Preemptive
+# Analisis Hasil Eksekusi Program Penjadwalan SJF (Shortest Job First) Non-Preemptive without arrival time
 **Nama Anggota**  
 
   Afriq Fadlil Azim (3124500043)  
