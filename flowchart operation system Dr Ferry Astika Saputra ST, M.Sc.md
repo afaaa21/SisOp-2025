@@ -1,4 +1,8 @@
 https://drive.google.com/file/d/1yOgUHpoKuzfE2jUoP_WQACqjprFsLGTE/view?usp=sharing
+**Nama** : Afriq Fadlil Azim
+**NRP** : 3124500043
+**Dosen Pengajar** :Dr Ferry Astika Saputra ST, M.Sc
+
 ### 1. Beda Multiprogramming vs Multitasking  
 **Multiprogramming**  
 - **Tujuan**: Meningkatkan utilisasi CPU dengan menyimpan beberapa program dalam memori secara bersamaan.  
