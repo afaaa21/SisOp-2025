@@ -2,7 +2,7 @@
 
 **Nama**: Afriq Fadili Azim  
 **NRP**: 3124500043  
-
+**Dosen Pengajar**: Dr Ferry Astika Saputra ST, M.Sc
 
 ## 1. Background and Feature Migration
 
