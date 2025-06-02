@@ -4,7 +4,7 @@ Tugas Sistem operasi 2025
 # Tugas Sistem Bilangan Biner
 
 **Nama**: Afriq Fadlil Azim  
-**NRP**: 3124500043
+**NRP**: 3124500043  
 **Dosen Pengajar**: Dr Ferry Astika Saputra ST, M.Sc
 
 ---
